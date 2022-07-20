@@ -1,0 +1,13 @@
+# What kind of data is this? 
+# How complex is this data?
+# Is this data sufficient for meeting our ultimate goal
+# Is there any missing data?
+# Are there any missing values? In the given dataset do we have complete information or some values are missing for some records or some columns?
+# Is there any relationship between different independent variables of the dataset? If yes then how strong is that relationship?
+# Are observations independent or tightly coupled?
+
+1. Import libraries and load dataset
+2. Check for missing values
+3. Visualizing the missing values
+4. Replacing the missing values
+5.Asking Analytical Questions and Visualizations
